@@ -1,0 +1,107 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Fazenda das Palmeiras
+
+## Skin
+
+### Button
+Button_983A8C0F_BA54_2EC3_41D8_03DB309CCDF2.label = CAPELA
+Button_983A8C0F_BA54_2EC3_41D8_03DB309CCDF2_mobile.label = CAPELA
+Button_986866E6_BA54_1B45_41E6_93ED0DBD6B5F.label = 1° PISO
+Button_986866E6_BA54_1B45_41E6_93ED0DBD6B5F_mobile.label = 1° PISO
+Button_98BCF01E_BA54_76C2_41D2_A4CEB56E4107.label = BILHAR
+Button_98BCF01E_BA54_76C2_41D2_A4CEB56E4107_mobile.label = BILHAR
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = ENTRADA FAZENDA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = ENTRADA FAZENDA
+Button_E6590E73_F157_4FC4_41E0_50FECE73881B.label = SUÍTE 2
+Button_E6590E73_F157_4FC4_41E0_50FECE73881B_mobile.label = SUÍTE 2
+Button_E6783005_F155_734F_4196_E021EA500472.label = ESCRITÓRIO
+Button_E6783005_F155_734F_4196_E021EA500472_mobile.label = ESCRITÓRIO
+Button_E79A72FE_F156_F4BC_41C3_2513C4386572.label = SUÍTE 1
+Button_E79A72FE_F156_F4BC_41C3_2513C4386572_mobile.label = SUÍTE 1
+Button_E7AD0709_F155_5D44_41DF_E620D5DF148B.label = SALA DE ESTAR
+Button_E7AD0709_F155_5D44_41DF_E620D5DF148B_mobile.label = SALA DE ESTAR
+Button_E7F96C1E_F155_337C_41E4_2F7B6E895BDE.label = 2° PISO
+Button_E7F96C1E_F155_337C_41E4_2F7B6E895BDE_mobile.label = 2° PISO
+
+### Multiline Text
+HTMLText_FDC68ABF_D4DA_60BB_41B2_E7842011A961.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;font-family:'Bebas Neue Bold';"><B>tour virtual</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Bebas Neue Bold';"><B>JULIA HERRERA HOSPITAL DOS OLHOS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';">Neste tour virtual além de você descobrir EM ALGUNS CLIQUES NOS ÍCONES INTERATIVOS como chegar até nosso espaço, que está localizado:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Bebas Neue Bold';"> </SPAN><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Bebas Neue Bold';"><U>R: SALVADOR, 440, ED. SOBERANE - </U></SPAN><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Bebas Neue Bold';"><B><U>torre corporate, 11° andar.</U></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B><U> </U></B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B>VOCê TAMBÉM PODERÁ CONHECER INTEGRALMENTE CADA ESPAÇO DE NOSSO HOSPITAL </B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><U>SEGUINDO EM FRENTE CLICANDO NOS LINKS INTERATIVOS</U></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B>, E CASO TENHA DÚVIDAS a qualquer momento durante o tour, Só CLICAR NO BOTãO </B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B><U>FALE CONOSCO</U></B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B> QUE irá acessar os NOSSOS CONTATOS. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;font-family:'Bebas Neue Bold';"><B>ATENCIOSAMENTE.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Media
+
+### Title
+panorama_FC3921C5_F137_54CC_41D0_C00AE27DC358.label = 003_entrada
+panorama_FC394C6E_F136_F3DC_41CB_FBF31F5EAFBE.label = 005_caminho_capela
+panorama_FC39CCBE_F132_CCBC_41E5_058186D7BD79.label = 021_sala
+panorama_FC39F50E_F137_5D5C_41C2_3592CE9C2788.label = 002_entrada
+panorama_FC3A0CF9_F133_4CC4_41D2_599F5B565F56.label = 020_sala_de_estar
+panorama_FC3A184A_F135_33C4_41D8_657A0F34B510.label = 012_entrada_sede
+panorama_FC3A28AC_F132_F35C_41CA_F289FDBF4661.label = 022_sala_acesso_segundo_piso
+panorama_FC3A2EC1_F133_4CC4_41D7_D09333CF0969.label = 015_lateral_direita_sede - conecta com 021
+panorama_FC3A378E_F133_DD5C_41E3_93325F72C4D8.label = 017_sala
+panorama_FC3A38AF_F135_335C_4183_DC364BA7A449.label = 008_lateral_capela
+panorama_FC3A43D8_F133_D4C4_41DD_956C8BB6B62A.label = 018_bilhar
+panorama_FC3A7064_F133_53CC_41C2_93216C012240.label = 019_sala
+panorama_FC3A9BBA_F133_5544_41EB_245EB5E2DE5E.label = 016_hall_entrada_sala
+panorama_FC3ABD1E_F135_4D7C_41EE_0F811F46BC5B.label = 006_porta_capela
+panorama_FC3ACD6B_F135_4DC4_41EB_4125FB0B615C.label = 007_interior_Capela
+panorama_FC3B1839_F137_D344_41C9_2BE35843E08F.label = 001_entrada
+panorama_FC3B6843_F135_F3C4_41D0_D2752C0505C3.label = 009_caminho_sede
+panorama_FC3BBB75_F135_75CC_41E8_FDF931B3F8E5.label = 011_caminho_sede
+panorama_FC3BF1D0_F133_34C4_41CF_17ABFFEB25FD.label = 014_corredor_direita
+panorama_FC440F5E_F14D_CDFC_41E2_CD75AD2DF08C.label = 046_varanda
+panorama_FC441AFE_F14D_74BC_41E1_27B21FF671C1.label = 043_entrada_cozinha
+panorama_FC4446D8_F14D_3CC4_41E0_05E40387CA4C.label = 044_varanda - conecta na 043
+panorama_FC445D58_F14F_4DC4_41E6_4D9CDF205FD7.label = 039_quarto_3
+panorama_FC44F2C8_F14F_74C4_41CD_0A4B711373F7.label = 038_lavabo_banheiro
+panorama_FC45630C_F14D_F55C_41ED_6F72AE213CE1.label = 045_varanda - conecta na 043
+panorama_FC4578FC_F14D_54BC_41CF_B97F372F0506.label = 048_área_de_festas
+panorama_FC45A801_F14D_D344_4193_C466C8EE3604.label = 026_escada
+panorama_FC45F024_F14D_734C_41C4_17173F621A60.label = 024_sala
+panorama_FC45F436_F14D_334C_41D7_DE8792A83EC0.label = 023_sala
+panorama_FC465420_F14D_D344_41B7_F815BEC3B7FC.label = 027_entrada_segundo_piso
+panorama_FC465C2D_F14D_535C_41D5_A5B1F8E64B74.label = 025_escritório
+panorama_FC468040_F14D_53C4_41E3_910375747914.label = 028_area_acesso
+panorama_FC4693B2_F14E_F544_41CA_54252997DF75.label = 031_corredor
+panorama_FC46AECC_F14E_CCDC_41ED_DABE8BCD8F50.label = 032_acesso
+panorama_FC46CBD5_F14D_74CC_41C2_79359E1362FD.label = 029_suíte_1
+panorama_FC46D7B8_F14D_3D44_41B2_9BFAD2AEC25B.label = 030_sala
+panorama_FC47457D_F14F_5DBC_41EB_09675050E9A9.label = 034_final_corredor
+panorama_FC4753F7_F14E_D4CC_41EB_7A53D56B55C9.label = 041_quarto_4
+panorama_FC47584B_F14E_D3C4_41E1_312100771A0C.label = 040_cozinha
+panorama_FC4780A2_F14F_D344_41D6_D9EA456B6F1F.label = 035_suíte_2
+panorama_FC47B9F3_F14F_54C4_41EC_90F70593F6C1.label = 033_quarto1
+panorama_FC47CBFA_F14F_F4C4_41E0_1937D0CAEC44.label = 036_area_acesso
+panorama_FC47E7A2_F14F_3D44_41B4_4292E8C7773A.label = 037_quarto_2
+panorama_FC47EE66_F14D_4FCC_41C0_2FF784C9937F.label = 042_cozinha
+panorama_FC4AB5A0_F152_DD44_41CF_8E1FE211FAF9.label = 049_área_externa - conecta na 010
+panorama_FC4ACBEF_F14D_54DC_41D7_1D1ACD6CD449.label = 047_final_escada_lateral sede - conecta na 048 e 015
+panorama_FC4AD3E6_F152_D4CC_41EE_0CBCA9921155.label = 050_campo-futebol_piscina
+panorama_FF66C59C_F137_DD7C_41C4_A354FF363225.label = 000_abertura
+
+## Popup
+
+### Body
+htmlText_E024C997_F6A5_C851_41D7_1E607417D56C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_E02876BB_F65A_D851_41EC_E462DD7F5D55.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Senador Levindo Coelho era muito religioso e católico, devoto de São Miguel, construiu a</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">capela e dedicou a ele. A Gruta na lateral, foi erguida junto com a capela. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://pt.wikipedia.org/wiki/Levindo_Ozanam_Coelho" TARGET="_top" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0033cc;"><B><U>Saiba mais CLICANDO aqui.</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_E02826BC_F65A_D857_41DB_37A1F8A3E586.title = HISTÓRIA DA CAPELA
+
+## Hotspot
+
+### Tooltip
+FlatHotspotPanoramaOverlayArea_E4AE43CA_F665_5833_41B7_2803E0E8AAD7.toolTip = IR PARA FAZENDA
+
+## Action
+
+### URL
+LinkBehaviour_C59C272D_D3FA_E15C_41A2_39C6B073B060.source = https://maps.app.goo.gl/wAj44Lg5tsaeboEVA
+LinkBehaviour_E84E390A_F6EE_C833_41E6_6F009B5C9414.source = https://www.dv9.com.br/
+LinkBehaviour_E9FEBE68_F6ED_48FF_41E6_5886C4E2C83D.source = https://www.dv9.com.br/
+LinkBehaviour_EBF71538_F6E5_D85F_41E8_0220F8D83B46.source = https://maps.app.goo.gl/wAj44Lg5tsaeboEVA
