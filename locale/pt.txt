@@ -32,6 +32,8 @@ Button_E7F96C1E_F155_337C_41E4_2F7B6E895BDE_mobile.label = 2° PISO
 ## Media
 
 ### Title
+panorama_E077A5A5_F807_851E_41EA_323751B5E8FE.label = 010_caminho_sede
+panorama_EE23B7EB_F804_84EA_41E3_84FED51BF7DC.label = 013_porta_sede
 panorama_FC3921C5_F137_54CC_41D0_C00AE27DC358.label = 003_entrada
 panorama_FC394C6E_F136_F3DC_41CB_FBF31F5EAFBE.label = 005_caminho_capela
 panorama_FC39CCBE_F132_CCBC_41E5_058186D7BD79.label = 021_sala
@@ -80,25 +82,40 @@ panorama_FC4AB5A0_F152_DD44_41CF_8E1FE211FAF9.label = 049_área_externa - conect
 panorama_FC4ACBEF_F14D_54DC_41D7_1D1ACD6CD449.label = 047_final_escada_lateral sede - conecta na 048 e 015
 panorama_FC4AD3E6_F152_D4CC_41EE_0CBCA9921155.label = 050_campo-futebol_piscina
 panorama_FF66C59C_F137_DD7C_41C4_A354FF363225.label = 000_abertura
+photo_E9008ACF_F81D_8F2A_41E4_DBDAC2BECB34.label = capela_Sao_Miguel_e_Almas
+photo_EA823050_F80D_9B36_41ED_3C417251FA59.label = imagem_Saulo_Coelho
+photo_EB257A34_F804_8F7E_41EA_23F506E75D4D.label = imagem_Cibele_Coelho
+photo_EBB51881_F803_8B16_41C0_983E7D29C9A2.label = brasao_familia_coelho
+photo_ECD1C12B_F804_9D6A_41EE_2031020D5D52.label = diploma
+photo_EE7B813C_F803_7D6E_41D3_CFC5561EDF6D.label = capa_livro_Ozanam_Coelho
 
 ## Popup
 
 ### Body
 htmlText_E024C997_F6A5_C851_41D7_1E607417D56C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
-htmlText_E02876BB_F65A_D851_41EC_E462DD7F5D55.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Senador Levindo Coelho era muito religioso e católico, devoto de São Miguel, construiu a</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">capela e dedicou a ele. A Gruta na lateral, foi erguida junto com a capela. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_top" HREF="https://pt.wikipedia.org/wiki/Levindo_Ozanam_Coelho" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0033cc;"><B><U>Saiba mais CLICANDO aqui.</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E02876BB_F65A_D851_41EC_E462DD7F5D55.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;">Senador Levindo Coelho era muito religioso e católico, devoto de São Miguel, construiu acapela e dedicou a ele.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;">A Gruta na lateral, foi erguida junto com a capela. </SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E958AC87_F81D_8B1A_41E9_2AF498C1FA90.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_E97D48F7_F81C_8CFA_41DC_9346877FDC59.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_EB1F5E01_F803_8716_41D3_3A90C22FADAF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_EB4C1882_F807_8B1A_41B2_4132899D6204.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_EB4F61BB_F80D_FD69_41E0_E0C9EC98FCCE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_EBA01C68_F805_8B17_41DD_9333A6A32845.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_EBB50575_F80C_85FE_41D3_AB97560C012F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_EBCA791F_F80C_8D2A_41E9_C91516D02382.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_EC128058_F80F_BB36_41E7_34BFB3154FAB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_ED67F100_F80C_9D16_41E6_6791D444EA5E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_EE21B107_F80C_FD1A_41DD_EC32B5914776.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ### Title
-window_E02826BC_F65A_D857_41DB_37A1F8A3E586.title = HISTÓRIA DA CAPELA
+window_EF24009D_F805_BB2E_41EE_F11602ECD67F.title = HISTÓRIA DA CAPELA
 
 ## Hotspot
 
 ### Tooltip
-HotspotPanoramaOverlayArea_E54193EF_F6EA_CBD4_41E4_0B9B4A4D98BD.toolTip = IR PARA FAZENDA
+HotspotPanoramaOverlayArea_E03A8753_F65E_D8D1_41DE_C763E88B4C10.toolTip = CLIQUE PARA SABER MAIS
 
 ## Action
 
 ### URL
-LinkBehaviour_C59C272D_D3FA_E15C_41A2_39C6B073B060.source = https://maps.app.goo.gl/wAj44Lg5tsaeboEVA
 LinkBehaviour_E84E390A_F6EE_C833_41E6_6F009B5C9414.source = https://www.dv9.com.br/
 LinkBehaviour_E9FEBE68_F6ED_48FF_41E6_5886C4E2C83D.source = https://www.dv9.com.br/
-LinkBehaviour_EBF71538_F6E5_D85F_41E8_0220F8D83B46.source = https://maps.app.goo.gl/wAj44Lg5tsaeboEVA
