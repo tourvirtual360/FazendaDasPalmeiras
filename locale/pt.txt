@@ -99,6 +99,7 @@ photo_EE7B813C_F803_7D6E_41D3_CFC5561EDF6D.label = capa_livro_Ozanam_Coelho
 ## Popup
 
 ### Body
+htmlText_CD95C95B_F83C_8D29_41D3_32595DA833C8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
 htmlText_D3D0D881_F804_8B16_41EB_3BA75C1AE8E3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
 htmlText_D46DEF63_F83D_851A_41E0_40C1B958BE2F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
 htmlText_D692BE0E_F804_872A_41DD_19468B8E9982.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cibele Coelho (primeira dama), mãe de Saulo Coelho. Muito ativa no SERVAS, realizava</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>serviços sociais.</B></SPAN></DIV></BODY></HTML></div>
@@ -127,7 +128,7 @@ HotspotPanoramaOverlayArea_E03A8753_F65E_D8D1_41DE_C763E88B4C10.toolTip = CLIQUE
 ## Action
 
 ### URL
-LinkBehaviour_D49F4EA6_F805_871B_41D5_7EB7A76B4327.source = wa.link/pbm2x2
-LinkBehaviour_D4FD4FC1_F804_8519_41AE_DEF4D7A2B8DB.source = wa.link/pbm2x2
+LinkBehaviour_D49F4EA6_F805_871B_41D5_7EB7A76B4327.source = https://api.whatsapp.com/send?phone=32988889990&text=Ol%C3%A1,+vim+do+Tour+Virtual+Fazenda+das+Palmeiras+e+gostaria+solicitar+um+or%C3%A7amento.
+LinkBehaviour_D4FD4FC1_F804_8519_41AE_DEF4D7A2B8DB.source = https://api.whatsapp.com/send?phone=32988889990&text=Ol%C3%A1,+vim+do+Tour+Virtual+Fazenda+das+Palmeiras+e+gostaria+solicitar+um+or%C3%A7amento.
 LinkBehaviour_D4FECFC4_F804_851F_41E4_E6D775ABBE49.source = wa.link/pbm2x2
 LinkBehaviour_D7FB2659_F805_8736_41DF_441BDDC5A71E.source = wa.link/pbm2x2
