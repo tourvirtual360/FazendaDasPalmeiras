@@ -140,3 +140,9 @@ window_C88A6C68_F803_8B16_41EF_15FD491FBB78.title = HISTÓRIA DA CAPELA
 
 ### Tooltip
 HotspotPanoramaOverlayArea_E03A8753_F65E_D8D1_41DE_C763E88B4C10.toolTip = CLIQUE PARA SABER MAIS
+
+## Action
+
+### URL
+LinkBehaviour_1F32BD61_073B_961F_4187_6BCCD3F08706.source = https://api.whatsapp.com/send?phone=32988889990&text=Ol%C3%A1,+vim+do+Tour+Virtual+Fazenda+das+Palmeiras+e+gostaria+solicitar+um+or%C3%A7amento
+LinkBehaviour_1F9F0D14_073B_F625_4141_001C2920D5DC.source = https://api.whatsapp.com/send?phone=32988889990&text=Ol%C3%A1,+vim+do+Tour+Virtual+Fazenda+das+Palmeiras+e+gostaria+solicitar+um+or%C3%A7amento
